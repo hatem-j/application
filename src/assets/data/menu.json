@@ -1,0 +1,34 @@
+[
+  {
+    "title": "",
+    "groupTitle": true
+  },
+  {
+    "title": "Liste des réactifs",
+    "icon": {
+      "class": "icofont-paralysis-disability"
+    },
+    "routing": "patients"
+  },
+  {
+    "title": "Cartes Kanban",
+    "icon": {
+      "class": "icofont-stethoscope-alt"
+    },
+    "routing": "appointments"
+  },
+  {
+    "title": "Gestion des armoires",
+    "icon": {
+      "class": "icofont-doctor"
+    },
+    "routing": "doctors"
+  },
+  {
+    "title": "Gestion des utilisateurs",
+    "icon": {
+      "class": "icofont-nurse"
+    },
+    "routing": "departments"
+  }
+]
